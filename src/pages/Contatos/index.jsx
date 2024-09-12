@@ -20,7 +20,7 @@ function Contatos(){
             <section className={styles.contatos}>
                 <h2>Meus Contatos</h2>
                 <h3>Aguardo o Contato</h3>
-                <p>Para que possamos conversar mais sobre.</p>
+                <p>Para que possamos conversar mais sobre...</p>
 
                 <div className={styles.icons}>
                     <a href='https://www.linkedin.com/in/tales-santos-6ba9a0214/' target='_blank' rel='noopener noreferrer'>
