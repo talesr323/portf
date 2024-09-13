@@ -28,11 +28,11 @@ function Sobre() {
             <div className={styles.techs}>
                 <h3>Tecnologias</h3>
                 <div className={styles.icones}>
-                    <img src={html} alt='Icone do HTML'/>
-                    <img src={css} alt='Icone do HTML'/>
-                    <img src={js} alt='Icone do JS'/>
-                    <img src={react} alt='Icone do REACT'/>
-                    <img src={sql} alt='Icone do SQL'/>
+                    <p><img src={html} alt='Icone do HTML'/>HTML</p>
+                    <p><img src={css} alt='Icone do Css'/>CSS</p>
+                    <p><img src={js} alt='Icone do JS'/>JS</p>
+                    <p><img src={react} alt='Icone do REACT'/>REACT</p>
+                    <p><img src={sql} alt='Icone do SQL'/>SQL</p>
                 </div>
             </div>
         </section>
