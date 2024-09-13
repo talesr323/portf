@@ -17,11 +17,11 @@ function Sobre() {
                     <p>Sou <span>Tales Renan</span> <br />
                         <strong>Dev Front End</strong></p>
 
-                    <p>Estou em busca de um trabalho na area!!</p>
+                    <p>Estou em busca de um trabalho na area!!!</p>
 
-                    <p>Sou apaixonado por transformar projetos em realidade</p>
+                    <p>Sou apaixonado por transformar projetos em realidade.</p>
 
-                    <p>Me especializando em criar aplicações intuiticas e focadas na experiencia do usuario!!</p>
+                    <p>Me especializando em criar aplicações intuitivas e focadas na experiencia do usuario!!!</p>
                 </div>
             </div>
 
