@@ -1,22 +1,12 @@
-import Footer from "../../components/Footer"
-import Header from "../../components/Header"
-import Container from "../../components/Container"
 import { IoIosMail } from "react-icons/io";
 import { FaGithub } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
 
-
-
-
-
 import styles from './Contatos.module.css';
 
 function Contatos(){
     return(
-        <>
-        <Header/>
-        <Container>
             <section className={styles.contatos}>
                 <h2>Meus Contatos</h2>
                 <h3>Aguardo o Contato</h3>
@@ -37,9 +27,6 @@ function Contatos(){
                     </a>
                 </div>     
             </section>
-        </Container>
-        <Footer/>
-        </>
     )
 }
 
